@@ -13,5 +13,4 @@ Contents
 Why MIPS?
 MIPS provides foundational knowledge in computer architecture and low-level programming. This repo aims to facilitate hands-on learning with practical MIPS examples.
 
-Contributions
 Contributions are appreciated! Feel free to add MIPS codes, enhance documentation, or suggest optimizations to enrich this learning resource.
