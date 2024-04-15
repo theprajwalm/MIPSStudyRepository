@@ -1,4 +1,5 @@
 MIPS Study Repository
+
 📚 A collection of MIPS assembly language codes and projects I'm exploring in my second semester. Dive into MIPS basics, arithmetic, control structures, and more.
 
 Contents
